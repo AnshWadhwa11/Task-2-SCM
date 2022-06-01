@@ -38,6 +38,7 @@ void Simple_Calculator :: display1(){
         break;
     }
 }
+\\made a scientific calculator class
 class Scientific_Calculator{
     protected: 
     int num;
