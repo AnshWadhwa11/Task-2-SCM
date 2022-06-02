@@ -60,7 +60,7 @@ void printTable(int start, int end, int step)
      * Taking input is handled automatically.
      */
 
-    // Using for loop
+    // Using for loops
     for (; start <= end; start = start + step)
     {
         int cel = fah_To_cel(start);
